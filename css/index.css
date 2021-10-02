@@ -1,0 +1,44 @@
+*body{
+    margin: 0%;
+    padding:0;
+    /* background-color: red; */
+}
+
+nav img{
+    width: 50px;
+    height: 50px;
+}
+
+.container{
+    object-fit: cover;
+}
+
+.box{
+    width: auto;
+    height: 600px;
+}
+.box img{
+    width: 100%;
+    height: 100%;
+}
+nav h3{
+    color: orange;
+}
+
+
+.navbar-nav .navbar-item .nav-link{
+    color: gray;
+    cursor: pointer;
+    }
+.navbar-nav .navbar-item .nav-link:hover{
+color: orange;
+cursor: pointer;
+}
+
+
+.container-fluid img{
+    height: 600px;
+    width: 100%;
+ 
+    
+}
